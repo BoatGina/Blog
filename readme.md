@@ -11,11 +11,11 @@ Gina的个人博客，记录了前端工作中的收获和感悟，以及平时�
 
 ## js系列
 
-* [实现call、apply和bind]()
+* [实现call、apply和bind](https://github.com/BoatGina/Blog/issues/1)
 
 ## vue系列
 
-* [实现MVVM]()
+* [实现MVVM](https://github.com/BoatGina/Blog/issues/2)
 
 ## 阅读系列
 
