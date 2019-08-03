@@ -1,4 +1,6 @@
 
+# 实现call、apply和bind
+
 ## 一. call和apply
 
 ### 1. 代码完整实现
@@ -206,7 +208,7 @@ console.log(bar.prototype.value) // 2
 
 总得来说，```bind```的实现考虑的点还是比较多的。
 
-### [点击项目源码](https://github.com/BoatGina/Blog/tree/master/js%E7%B3%BB%E5%88%97/%E5%AE%9E%E7%8E%B0call%E3%80%81apply%E5%92%8Cbind)
+### [点击项目源码](https://github.com/BoatGina/Blog/tree/master/js%E7%B3%BB%E5%88%97/%E5%AE%9E%E7%8E%B0call%E3%80%81apply%E5%92%8Cbind/src)
 
 ### 参考：
 https://github.com/mqyqingfeng/Blog/issues/12
