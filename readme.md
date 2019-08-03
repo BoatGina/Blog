@@ -6,7 +6,9 @@ Gina的个人博客，记录了前端工作中的收获和感悟，以及平时�
 * 简书:  https://www.jianshu.com/u/895c84155bdd 
 * 掘金： https://juejin.im/user/5934b3b22f301e006b0502de
 * 博客园： https://www.cnblogs.com/BoatGina/
-* 公众号：![公众号](https://github.com/BoatGina/Blog/blob/master/assets/qrcode.jpg)
+* 公众号：
+
+![公众号](https://github.com/BoatGina/Blog/blob/master/assets/qrcode.jpg)
 
 
 ## js系列
